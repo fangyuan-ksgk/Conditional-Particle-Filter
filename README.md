@@ -1,2 +1,1 @@
-# Conditional-Particle-Filter
-Conditional Particle Filter code
+#Python Package for Conditional Particle Filter
